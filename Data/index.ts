@@ -10,7 +10,7 @@ export const navItems = [
 
 export const gridItems = [
     {  id: 1, 
-       title: "Mamia, Healthcare Hare Krishna Hare Krishna Krishna Krishna Hare Hare", 
+       title: "Mamia, Healthcare", 
        description: "", 
        className: "lg:col-span-2 lg:row-span-2 md:col-span-6 md:row-span-2 lg:min-h-[60vh]",
        imgClassName: "h-[250%] w-full",
@@ -76,7 +76,7 @@ export const projects = [
       id: 1,   
       title: "Mamia HealthCare Web Application",
       des: "Appointments tracking, User Manager, SignInManager, Loan tracking, Azure Cloud Database",
-      img: "/p1.svg",
+      img: "/MamiaSnap.png",
       iconLists :["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
       link: "/ui.earth.com",
     },
@@ -84,7 +84,7 @@ export const projects = [
         id: 2,   
         title: "Digital CV Portfoilio",
         des: "A portfolio of my work experience using Next.JS, Typescript, Tailwind CSS",
-        img: "/p1.svg",
+        img: "/PortSnap.png",
         iconLists :["/re.svg", "/tail.svg", "/three.svg"],
         link: "/ui.earth.com", 
     },
