@@ -93,9 +93,9 @@ export const projects = [
         id: 3,   
         title: "LEADS",
         des: "Designed a CRM application using .Net, HTML, CSS, JavaScript, SQL Cloud database which allows organisation to register and admin can add all the Staff, Customer(Company) which can be future customer, leads or Prospect. ",
-        img: "/p1.svg",
+        img: "/LEADS.PNG",
         iconLists :["/re.svg", "/tail.svg", "/three.svg"],
-        link: "/ui.earth.com", 
+        link: "https://azurewebsites.ourleads.net/", 
     },
     {
         id: 4,   
@@ -103,7 +103,7 @@ export const projects = [
         des: "Built an API using C#, .Net, SQL server which is integrated with react.JS frontend",
         img: "/CRM's snap.png",
         iconLists :["/re.svg", "/tail.svg", "/three.svg"],
-        link: "/ui.earth.com", 
+        link: "", 
     }
 ];
 export const Testimonials = [

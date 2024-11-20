@@ -3,6 +3,8 @@ import React from 'react'
 import { PinContainer } from './ui/3d-pin'
 import { TiThLarge } from 'react-icons/ti'
 import { FaLocationArrow } from 'react-icons/fa'
+import Image from 'next/image'
+import { ImGift } from 'react-icons/im'
 
 const RecentProjects = () => {
   return (
