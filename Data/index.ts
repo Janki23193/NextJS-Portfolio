@@ -5,6 +5,7 @@ export const navItems = [
     { name: "Projects", link: "#projects" },
     { name: "Testimonials", link: "#testimonials" },
     { name: "Contact", link: "#contact" },
+    { name: "Course", link: "#ITCourses"}
     
 ]
 
@@ -19,7 +20,7 @@ export const gridItems = [
        spareImg: "",
     },
     { id: 2,
-      title: "I'm a full stack developer, NZ based",
+      title: "Ready to bring my skills worldwide",
       description: '',
       className: "lg:col-span-1 md:col-span-3 md:row-span-1",
       imgClassName: "" ,
