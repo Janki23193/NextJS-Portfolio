@@ -3,9 +3,7 @@
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
-    { name: "Testimonials", link: "#testimonials" },
-    { name: "Contact", link: "#contact" },
-    { name: "Course", link: "#ITCourses"}
+    { name: "Testimonials", link: "#testimonials" }
     
 ]
 
@@ -74,28 +72,28 @@ export const gridItems = [
 
 export const projects = [
     {
-      id: 1,   
-      title: "Mamia HealthCare Web Application",
-      des: "Appointments tracking, User Manager, SignInManager, Loan tracking, Azure Cloud Database",
-      img: "/MamiaSnap.PNG",
-      iconLists :["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
-      link: "/ui.earth.com",
-    },
-    {
-        id: 2,   
+        id: 1,   
         title: "Digital CV Portfoilio",
         des: "A portfolio of my work experience using Next.JS, Typescript, Tailwind CSS",
         img: "/PortSnap.PNG",
         iconLists :["/re.svg", "/tail.svg", "/three.svg"],
-        link: "/ui.earth.com", 
+        link: "https://next-js-portfolio-nine-psi.vercel.app/", 
     },
     {
-        id: 3,   
+        id: 2,   
         title: "LEADS",
         des: "Designed a CRM application using .Net, HTML, CSS, JavaScript, SQL Cloud database which allows organisation to register and admin can add all the Staff, Customer(Company) which can be future customer, leads or Prospect. ",
         img: "/LEADS.PNG",
         iconLists :["/re.svg", "/tail.svg", "/three.svg"],
-        link: "https://azurewebsites.ourleads.net/", 
+        link: "https://ourleads.azurewebsites.net/", 
+    },
+    {
+        id: 3,   
+        title: "Mamia HealthCare Web Application",
+        des: "Appointments tracking, User Manager, SignInManager, Loan tracking, Azure Cloud Database",
+        img: "/MamiaSnap.PNG",
+        iconLists :["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
+        link: "/ui.earth.com",
     },
     {
         id: 4,   
