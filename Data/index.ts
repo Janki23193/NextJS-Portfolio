@@ -86,23 +86,23 @@ export const projects = [
         img: "/LEADS.PNG",
         iconLists :["/re.svg", "/tail.svg", "/three.svg"],
         link: "https://ourleads.azurewebsites.net/", 
-    },
-    {
-        id: 3,   
-        title: "Mamia HealthCare Web Application",
-        des: "Appointments tracking, User Manager, SignInManager, Loan tracking, Azure Cloud Database",
-        img: "/MamiaSnap.PNG",
-        iconLists :["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
-        link: "/ui.earth.com",
-    },
-    {
-        id: 4,   
-        title: "Customer Relationship Manager",
-        des: "Built an API using C#, .Net, SQL server which is integrated with react.JS frontend",
-        img: "/CRM's snap.PNG",
-        iconLists :["/re.svg", "/tail.svg", "/three.svg"],
-        link: "", 
     }
+    // {
+    //     id: 3,   
+    //     title: "Mamia HealthCare Web Application",
+    //     des: "Appointments tracking, User Manager, SignInManager, Loan tracking, Azure Cloud Database",
+    //     img: "/MamiaSnap.PNG",
+    //     iconLists :["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
+    //     link: "/ui.earth.com",
+    // },
+    // {
+    //     id: 4,   
+    //     title: "Customer Relationship Manager",
+    //     des: "Built an API using C#, .Net, SQL server which is integrated with react.JS frontend",
+    //     img: "/CRM's snap.PNG",
+    //     iconLists :["/re.svg", "/tail.svg", "/three.svg"],
+    //     link: "", 
+    // }
 ];
 export const Testimonials = [
     {
