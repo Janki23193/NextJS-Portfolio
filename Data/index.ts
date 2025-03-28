@@ -73,7 +73,7 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,   
-        title: "Digital CV Portfoilio",
+        title: "Digital CV Portfolio",
         des: "A portfolio of my work experience using Next.JS, Typescript, Tailwind CSS",
         img: "/PortSnap.PNG",
         iconLists :["/re.svg", "/tail.svg", "/three.svg"],
